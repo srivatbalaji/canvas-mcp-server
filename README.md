@@ -1,5 +1,3 @@
-# Canvas MCP Server
-
 This is the MCP server I built to be used with BruinLearn (Canvas). Feel free to run with any client and modify code to work with your school's Canvas instructure!
 
 ## Setup
