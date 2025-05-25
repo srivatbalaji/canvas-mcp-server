@@ -62,9 +62,3 @@ npm run dev    # Development mode
 npm run build  # Build for production
 npm start      # Start the server
 ```
-
-## Security
-
-- Never commit your `.env` file
-- Rotate Canvas tokens regularly
-- Keep tokens private
