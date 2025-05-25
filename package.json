@@ -1,0 +1,24 @@
+{
+  "name": "canvas-mcp-server",
+  "version": "0.1.0",
+  "description": "MCP server for Canvas LMS integration",
+  "main": "build/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "start": "node build/index.js",
+    "dev": "tsx src/index.ts"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^0.5.0",
+    "dotenv": "^16.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0"
+  },
+  "bin": {
+    "canvas-mcp-server": "./build/index.js"
+  }
+}
