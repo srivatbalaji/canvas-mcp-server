@@ -1,4 +1,4 @@
-This is the MCP server I built to be used with BruinLearn (UCLA's Canvas). Feel free to run with any client and modify code to work with your school's Canvas instructure!
+MCP server I built to be used with BruinLearn (UCLA's Canvas) and Claude Desktop.
 
 ## Setup
 
